@@ -18,7 +18,7 @@ def ascii_to_binary(ascii_value):
     return [int(bit) for bit in binary_rep]
 
 
-# Training data: ASCII values for digits 0 to 9
+# Training data: ASCII values for digits 0 - 9
 training_data = {
     '0': 48,
     '1': 49,
