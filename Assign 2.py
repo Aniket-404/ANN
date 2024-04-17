@@ -1,3 +1,5 @@
+#assignment 2
+
 import numpy as np
 
 def mp_neuron(inputs, weights, threshold):
